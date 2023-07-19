@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="Alternate logo" src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gitkosha/.github/assets/68323012/868d9569-f6a9-4669-bd31-23d66f23805f">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gitkosha/.github/assets/68323012/868d9569-f6a9-4669-bd31-23d66f23805f">
+  <img alt="Alternate logo" src="https://github.com/gitkosha/.github/assets/68323012/ef4c4cfd-d94e-4068-9ddf-6c257b697d9f">
 </picture>
 
 ### 👋 Introduction
