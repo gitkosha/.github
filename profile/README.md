@@ -15,7 +15,7 @@ To build an open-source end-to-end DevOps platform for softwares and beyond.
 ### 👩‍💻 Useful resources
 
 #### Social:
-  - Website: https://www.gitkosha.in
+  - Website: https://www.gitkosha.in | https://www.gitkosh.in
   - LinkedIn: https://www.linkedin.com/company/gitkosha
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
